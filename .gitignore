@@ -1,0 +1,7 @@
+build/
+app/
+*.o
+*.so
+*.a
+.factory/
+*.dSYM/
